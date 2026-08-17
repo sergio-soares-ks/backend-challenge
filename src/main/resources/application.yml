@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: password-validator-api
+
+server:
+  port: 8080
